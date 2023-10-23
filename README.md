@@ -1,4 +1,4 @@
-# Data Learn
+# Data Learn 📖
 
 
 Getting Started with Analytics and Data Engineering
@@ -10,7 +10,7 @@ Getting Started with Analytics and Data Engineering
 GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md)
 
 
-## Мои решения задач по курсу Data Learn
+## Мои решения задач по курсу Data Learn 🗃️
 
 ### Модуль 01
 Задачи:
