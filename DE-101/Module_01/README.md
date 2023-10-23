@@ -2,10 +2,10 @@
 Посмотреть задание к модулю: [здесь](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1 "здесь")
 
 
-Задачи:
-- оформление GitHub
-- архитектура аналитического решения
-- аналитика и дашборд в Excel
+**Задачи:**
+**- оформление GitHub**
+**- архитектура аналитического решения**
+**- аналитика и дашборд в Excel**
 
 ## Архитектура аналитического решения
 
@@ -39,7 +39,7 @@
 Посмотреть решение подробно: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_01.xlsx "книга Excel")
 
 
-Подробный дашборд
+**Подробный дашборд**
 
 
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_01_part_1.png)
@@ -49,7 +49,7 @@
 Посмотреть решение подробно: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_02.xlsx "книга Excel")
 
 
-Лаконичный дашборд для отслеживания основных показателей бизнеса, его динамики и наиболее выгодных направлений
+**Дашборд для отслеживания основных показателей бизнеса и наиболее выгодных направлений**
 
 
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_02.png)
@@ -58,7 +58,7 @@
 Посмотреть решение подробно: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_03.xlsx "книга Excel")
 
 
-Дашборд для отслеживания проблемных зон
+**Дашборд для отслеживания проблемных зон**
 
 
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_03.png)
