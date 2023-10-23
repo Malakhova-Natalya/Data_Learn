@@ -34,16 +34,22 @@
    - построение графиков
    - оформление дашбордов с использованием общих для всех графиков фильтров
 
-   - 
-Дашборд 1: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_01.xlsx "книга Excel")
+
+### Дашборд 1: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_01.xlsx "книга Excel")
+
+
 Подробный дашборд
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_01_part_1.png)
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_01_part_2.png)
 
-Дашборд 2: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_02.xlsx "книга Excel")
+### Дашборд 2: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_02.xlsx "книга Excel")
+
+
 Лаконичный дашборд для отслеживания основных показателей бизнеса, его динамики и наиболее выгодных направлений
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_02.png)
 
-Дашборд 3: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_03.xlsx "книга Excel")
+### Дашборд 3: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_03.xlsx "книга Excel")
+
+
 Дашборд для отслеживания проблемных зон
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_03.png)
