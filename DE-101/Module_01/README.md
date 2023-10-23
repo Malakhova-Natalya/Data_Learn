@@ -8,8 +8,6 @@
 - аналитика и дашборд в Excel
 
 ## Архитектура аналитического решения
-**Моё решение**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_01.png "здесь")
-
 
 **Инструмент: draw.io**
 
@@ -22,12 +20,12 @@
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_01.png)
  ---
  ## Аналитика и дашборд в Excel
+ **Инструмент: Excel**
+ 
 **Моё решение**: три версии дашборда
-- Первый - подробный 
-- Второй - лаконичный, Sales&Profit
-- Третий - для поиска проблем
-
-**Инструмент: Excel**
+- Первый дашборд - длинный и подробный. Это первая версия, которая в итоге показалась мне слишком многословной, но я оставила её для истории и сравнения с другими версиями.
+- Второй дашборд - более лаконичный, Sales&Profit. Здесь можно отслеживать основные показатели бизнеса, его динамику и видеть наиболее выгодные направления. 
+- Третий дашборд - дополнение ко второму дашборду. Его цель - поиск проблемных мест бизнеса.
 
 
 Решения основаны на предоставленном файле Superstore Sample. Мини-проекты включают в себя:
@@ -37,12 +35,15 @@
    - оформление дашбордов с использованием общих для всех графиков фильтров
 
    - 
-Версия 1: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_01.xlsx "здесь")
+Дашборд 1: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_01.xlsx "книга Excel")
+Подробный дашборд
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_01_part_1.png)
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_01_part_2.png)
 
-Версия 2: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_02.xlsx "здесь")
+Дашборд 2: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_02.xlsx "книга Excel")
+Лаконичный дашборд для отслеживания основных показателей бизнеса, его динамики и наиболее выгодных направлений
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_02.png)
 
-Версия 3: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_03.xlsx "здесь")
+Дашборд 3: [книга Excel](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/Homework_02_version_03.xlsx "книга Excel")
+Дашборд для отслеживания проблемных зон
  ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_01/dashboard_version_03.png)
