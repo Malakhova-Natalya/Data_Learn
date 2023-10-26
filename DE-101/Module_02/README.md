@@ -13,9 +13,17 @@
 
 ## Установка базы данных, клиента SQL, загрузка данных в БД, написание SQL-запросов
 Скрипт для загрузки таблицы orders: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/orders.sql "здесь")
+
+
 Скрипт для загрузки таблицы people: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/people.sql "здесь")
+
+
 Скрипт для загрузки таблицы returns: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/returns.sql "здесь")
+
+
 SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/SQL_queries.sql "здесь")
+
+
 **Инструменты: Postgres, DBeaver**
 
 
