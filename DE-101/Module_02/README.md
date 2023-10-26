@@ -12,6 +12,9 @@
 - **написать SQL-запросы, чтобы ответить на вопросы из Модуля 01**
 
 ## Установка базы данных, клиента SQL, загрузка данных в БД, написание SQL-запросов
+**Инструменты: Postgres, DBeaver**
+
+
 Скрипт для загрузки таблицы orders: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/orders.sql "здесь")
 
 
@@ -24,7 +27,7 @@
 SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/SQL_queries.sql "здесь")
 
 
-**Инструменты: Postgres, DBeaver**
+
 
 
 
