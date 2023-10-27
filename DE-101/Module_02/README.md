@@ -31,13 +31,13 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ## Модели данных для Superstore
 **Инструмент: SqlDBM**
-### концептуальная модель
+### Концептуальная модель
 
-### логическая модель
+### Логическая модель
 
-### физическая модель
+### Физическая модель
 
-## DDL в SQL клиенте: dimensions tables, sales-fact table
+### DDL в SQL клиенте: dimensions tables, sales-fact table
 
 
 
