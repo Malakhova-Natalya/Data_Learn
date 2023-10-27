@@ -31,13 +31,29 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ## Модели данных для Superstore
 **Инструмент: SqlDBM**
+
+
+Этот open-source инструмент позволяет рисовать модели данных на разных уровнях - от отдельных таблиц до таблиц с детализацией по столбцам и типам данных.
+
+
+Здесь графически представлены макеты моделей - поэтому удобно настраивать взаимосвязи таблиц
+
+
+А в разделе Forward engineering можно получить DDL для создания таблиц по созданным моделям.
+
+**Мини-презентация**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/Model_types.pdf "здесь")
+
+
 ### Концептуальная модель
+На этом этапе продумывается концепция таблиц, им даются названия + определяются взаимосвязи
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/01_model.png)
 
 ### Логическая модель
+На этом шаге концепция дополняется конкретными столбцами + определяются ключи
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/02_model.png)
 
 ### Физическая модель
+Столбцы дополняются типами данных + отсюда можно брать DDL для создания таблиц в SQL-клиенте
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/03_model.png)
 
 ## DDL - Data Definition Language
