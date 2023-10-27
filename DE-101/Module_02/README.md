@@ -32,7 +32,7 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 ## Модели данных для Superstore
 **Инструмент: SqlDBM**
 ### Концептуальная модель
-![cover]()
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/01_model.png)
 
 ### Логическая модель
 ![cover]()
