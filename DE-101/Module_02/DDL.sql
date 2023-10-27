@@ -1,17 +1,32 @@
 DDL
  
 -- ************************************** calendar
+ -- удаляем таблицу, если она существует вместе со всем, что с ней связано (CONSTRAINT)
+DROP TABLE IF EXISTS calendar cascade;
+-- создаём таблицу, прописывая типы данных и взаимосвязи
+-- тип int4range меняем на int
 CREATE TABLE calendar
 (
  order_date date NOT NULL,
  ship_date  date NOT NULL,
- year       int4range NOT NULL,
+ year       int NOT NULL,
  quarter    varchar(15) NOT NULL,
- month      int4range NOT NULL,
- week       int4range NOT NULL,
- week_day   int4range NOT NULL,
+ month      int NOT NULL,
+ week       int NOT NULL,
+ week_day   int NOT NULL,
  CONSTRAINT PK_1 PRIMARY KEY ( order_date, ship_date )
 );
+-- вставляем значения во все столбцы
+INSERT INTO calendar(order_date,ship_date, year, quarter, month, week, week_day) 
+-- делаем это не при помощи VALUE, а при помощи SQL-запроса к существующей таблице
+ -- поскольку это таблица dimension, делаем DISTINCT, чтобы для каждой уникальной даты вывести её свойства
+SELECT DISTINCT order_date::date , ship_date::date, 
+EXTRACT('year' FROM order_date)::int AS year,
+EXTRACT('quarter' FROM order_date) AS quarter,
+EXTRACT('month' FROM order_date) AS month,
+EXTRACT('week' FROM order_date) AS week,
+EXTRACT('isodow' FROM order_date) AS week_day
+FROM public.orders;
 
 -- ************************************** geography
 
