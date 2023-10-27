@@ -37,7 +37,7 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ### Физическая модель
 
-### DDL в SQL клиенте: dimension tables, sales table
+## DDL в SQL клиенте: dimension tables, sales table
 В этом задании используется
 
 
@@ -51,8 +51,14 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 - geography,
 - product,
 - shipping,
+
+
 и в конце создана таблица
+
+
 - sales,
+
+
 к которой идут все взаимосвязи
 
 
