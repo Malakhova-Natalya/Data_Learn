@@ -81,12 +81,23 @@ ORDER BY 1);
 
 -- ************************************** shipping
 
+DROP TABLE IF EXISTS shipping cascade;
+
 CREATE TABLE shipping
 (
  ship_id   int NOT NULL,
  ship_mode varchar(14) NOT NULL,
- CONSTRAINT PK_1 PRIMARY KEY ( ship_id )
+ CONSTRAINT PK_4 PRIMARY KEY ( ship_id )
 );
+
+
+INSERT INTO shipping (ship_id, ship_mode) 
+
+SELECT 100 + row_number() OVER() AS ship_id, ship_mode
+FROM (
+SELECT DISTINCT ship_mode
+FROM public.orders
+ORDER BY 1);
 
 -- ************************************** sales
 
