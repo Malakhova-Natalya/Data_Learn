@@ -38,7 +38,7 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/02_model.png)
 
 ### Физическая модель
-![cover]()
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/03_model.png)
 
 ## DDL - Data Definition Language
 В этом задании используется:
