@@ -20,3 +20,9 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 
 
 Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/tree/main/DE-101/Module_01 "здесь")
+
+### 🗂️ Модуль 02: Базы данных и SQL
+
+
+
+Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/tree/main/DE-101/Module_02 "здесь")
