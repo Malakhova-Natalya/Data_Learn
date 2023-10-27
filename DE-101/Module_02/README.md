@@ -37,7 +37,8 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ### Физическая модель
 
-### DDL в SQL клиенте: dimensions tables, sales-fact table
+### DDL в SQL клиенте: dimension tables (calendar. geography, product, shipping), sales table
+Все скрипты для создания таблиц и наполнения их данными: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/DDL.sql "здесь")
 
 
 
