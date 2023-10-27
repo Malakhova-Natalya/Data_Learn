@@ -30,28 +30,54 @@ FROM public.orders;
 
 -- ************************************** geography
 
+DROP TABLE IF EXISTS geography cascade;
+
 CREATE TABLE geography
 (
  geo_id      int NOT NULL,
  country     varchar(13) NOT NULL,
  region      varchar(7) NOT NULL,
- "state"       varchar(11) NOT NULL,
- city        varchar(17) NOT NULL,
- postal_code int4range NOT NULL,
- CONSTRAINT PK_1 PRIMARY KEY ( geo_id )
+ "state"     varchar(20) NOT NULL, -- здесь изменения по длине varchar, иначе не все значения помещались
+ city        varchar(17) NOT NULL, -- здесь может быть NULL
+ postal_code int NULL,
+ CONSTRAINT PK_2 PRIMARY KEY ( geo_id ) -- в программе создаются блоки по-отдельности, поэтому там везде PK_1, в реальности нужно менять на PK_2 и т.д.
 );
+
+INSERT INTO geography (geo_id, country, region, state, city, postal_code) 
+
+SELECT row_number() OVER() AS geo_id, *
+FROM (
+SELECT 
+distinct country AS country ,
+region AS region,
+state AS state,
+city AS city,
+postal_code AS postal_code
+FROM public.orders
+ORDER BY postal_code);
 
 -- ************************************** product
 
+DROP TABLE IF EXISTS product cascade;
+
 CREATE TABLE product
 (
- product_id   int NOT NULL,
+ product_id   varchar(17) NOT NULL, -- здесь не int в исходных данных
  category     varchar(15) NOT NULL,
  subcategory  varchar(11) NOT NULL,
- segment      varchar(11) NOT NULL,
  product_name varchar(127) NOT NULL,
- CONSTRAINT PK_1 PRIMARY KEY ( product_id )
+ CONSTRAINT PK_3 PRIMARY KEY ( product_id )
 );
+
+
+INSERT INTO product (product_id, category, subcategory, product_name) 
+-- в исходных данных есть дублирование одного product_id, поэтому мы добавляем row_number() - чтобы добиться уникальности
+SELECT concat(row_number() OVER(PARTITION BY product_id), '_', product_id) AS product_id, category, subcategory, product_name
+FROM (
+SELECT DISTINCT
+product_id, category, subcategory, product_name
+FROM public.orders
+ORDER BY 1);
 
 -- ************************************** shipping
 
