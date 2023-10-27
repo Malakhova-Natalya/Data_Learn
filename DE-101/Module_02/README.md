@@ -38,7 +38,7 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 ### Физическая модель
 
 ## DDL в SQL клиенте: dimension tables, sales table
-В этом задании используется
+В этом задании используется:
 
 
 **DDL (Data Definition Language)** - это подмножество языка SQL (Structured Query Language), 
@@ -46,6 +46,8 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
  
 Все скрипты для создания таблиц и наполнения их данными: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/DDL.sql "здесь")
+
+
 Были созданы dimension-таблицы: 
 - calendar,
 - geography,
