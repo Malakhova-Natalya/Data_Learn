@@ -46,14 +46,20 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ### Концептуальная модель
 На этом этапе продумывается концепция таблиц, им даются названия + определяются взаимосвязи
+
+
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/01_model.png)
 
 ### Логическая модель
 На этом шаге концепция дополняется конкретными столбцами + определяются ключи
+
+
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/02_model.png)
 
 ### Физическая модель
 Столбцы дополняются типами данных + отсюда можно брать DDL для создания таблиц в SQL-клиенте
+
+
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/03_model.png)
 
 ## DDL - Data Definition Language
