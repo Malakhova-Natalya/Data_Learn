@@ -19,7 +19,7 @@ CREATE TABLE calendar
 -- вставляем значения во все столбцы
 INSERT INTO calendar(order_date,ship_date, year, quarter, month, week, week_day) 
 -- делаем это не при помощи VALUE, а при помощи SQL-запроса к существующей таблице
- -- поскольку это таблица dimension, делаем DISTINCT, чтобы для каждой уникальной даты вывести её свойства
+-- поскольку это таблица dimension, делаем DISTINCT, чтобы для каждой уникальной даты вывести её свойства
 SELECT DISTINCT order_date::date , ship_date::date, 
 EXTRACT('year' FROM order_date)::int AS year,
 EXTRACT('quarter' FROM order_date) AS quarter,
