@@ -102,10 +102,13 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 - для Yandex Cloud - пробный период завершён, доступ к ресурсам приостановлен
 
 
+
 На будущее для того, чтобы подключаться BI-инструментом к БД в облаке, можно изучить Docker. В чате курса есть рекомендация
 
 
+
 "Бесплатный, очень подробный курс": https://karpov.courses/docker
+
 
 
 **Дашборд Yandex Data Lens**: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
