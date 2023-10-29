@@ -98,9 +98,11 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 ## Дашборды в разных BI-инструментах
 
-Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
+Дашборд Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_01_datalens.png)
+
+Дашборд Lookerstudio: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
 
 
