@@ -100,9 +100,12 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 Дашборд Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
+Подключение к данным - загрузка датасета в Data Lens
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_01_datalens.png)
 
-Дашборд Lookerstudio: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
+Дашборд Google Lookerstudio: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
 
+Подключение к данным через Google Диск - Google Таблицы
 
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio.png)
