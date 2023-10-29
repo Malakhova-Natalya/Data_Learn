@@ -101,4 +101,6 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
 
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_01_datalens.png)
+
 
