@@ -15,7 +15,7 @@
 - **загрузить данные в разные слои: создать схемы stg и dw и наполнить их данными**
 - **создать дашборды в нескольких BI-инструментах**
 
-- 
+
 ## Установка базы данных, клиента SQL, загрузка данных в БД, написание SQL-запросов
 **Инструменты: Postgres, DBeaver**
 
@@ -110,20 +110,21 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 "Бесплатный, очень подробный курс": https://karpov.courses/docker
 
 
+### Yandex DataLens
+**Дашборд Yandex DataLens**: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
-**Дашборд Yandex Data Lens**: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
-
-Подключение к данным - загрузка датасета в Data Lens
+Подключение к данным - загрузка датасета в DataLens
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_01_datalens.png)
 
+### Google Lookerstudio
 **Дашборд Google Lookerstudio**: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
 
 Подключение к данным через Google Диск - Google Таблицы
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio.png)
 
-Варианты с изменением цветов (эксперимент):
+**Варианты с изменением цветов (эксперимент)**:
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio_02.png)
 
