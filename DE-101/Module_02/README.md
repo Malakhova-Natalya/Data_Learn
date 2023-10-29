@@ -13,7 +13,9 @@
 - **нарисовать модели данных для Superstore**
 - **выполнить DDL в SQL клиенте: создать новые таблицы и заполнить их данными**
 - **загрузить данные в разные слои: создать схемы stg и dw и наполнить их данными**
+- **создать дашборды в нескольких BI-инструментах**
 
+- 
 ## Установка базы данных, клиента SQL, загрузка данных в БД, написание SQL-запросов
 **Инструменты: Postgres, DBeaver**
 
@@ -92,4 +94,11 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 Скрипты создания новых схем stg и dw и наполнения их данными:
 - для схемы stg: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/layer_01_staging.sql "здесь")
 - для схемы dw: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/layer_02_dw.sql "здесь")
+
+
+## Дашборды в разных BI-инструментах
+
+Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
+
+
 
