@@ -102,19 +102,19 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 - для Yandex Cloud - пробный период завершён, доступ к ресурсам приостановлен
 
 
-На будущее можно изучить Docker. В чате курса есть рекомендация
+На будущее для того, чтобы подключаться BI-инструментом к БД в облаке, можно изучить Docker. В чате курса есть рекомендация
 
 
 "Бесплатный, очень подробный курс": https://karpov.courses/docker
 
 
-Дашборд Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
+**Дашборд Yandex Data Lens**: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
 Подключение к данным - загрузка датасета в Data Lens
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_01_datalens.png)
 
-Дашборд Google Lookerstudio: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
+**Дашборд Google Lookerstudio**: [здесь](https://lookerstudio.google.com/reporting/4e2800e1-fdc4-480a-855f-fb7e62e21ef3 "здесь")
 
 Подключение к данным через Google Диск - Google Таблицы
 
