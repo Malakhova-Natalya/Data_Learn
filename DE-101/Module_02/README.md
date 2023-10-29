@@ -122,3 +122,9 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 Подключение к данным через Google Диск - Google Таблицы
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio.png)
+
+Варианты с изменением цветов (эксперимент):
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio_02.png)
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio_03.png)
