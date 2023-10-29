@@ -97,6 +97,16 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 
 
 ## Дашборды в разных BI-инструментах
+Выполнить развёртывание БД в облаке на данный момент не удалось:
+- для зарубежных систем - блокировка банковской карты
+- для Yandex Cloud - пробный период завершён, доступ к ресурсам приостановлен
+
+
+На будущее можно изучить Docker. В чате курса есть рекомендация
+
+
+"Бесплатный, очень подробный курс": https://karpov.courses/docker
+
 
 Дашборд Yandex Data Lens: [здесь](https://datalens.yandex.ru/ycexrsyxn70an-superstore-dashboard?state=b77e25b1106 "здесь")
 
