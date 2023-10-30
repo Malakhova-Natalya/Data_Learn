@@ -129,3 +129,14 @@ SQL-запросы: [здесь](https://github.com/Malakhova-Natalya/Data_Learn
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio_02.png)
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_02_lookerstudio_03.png)
+
+### Power BI
+**Дашборд Power BI**
+
+Подключение к данным - загрузка датасета в формате Excel в Power BI
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_03_powerbi_01.png)
+
+**Вариант в другом дизайне**:
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_02/dashboard_03_powerbi_02.png)
