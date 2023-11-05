@@ -27,6 +27,6 @@
 - при выборе на карте конкретного штата меняются заголовки графиков
 - во всплывающей подсказке есть дополнительные данные по городам
 
-- 
+
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_03/dashboard_tableau_02.png)
 
