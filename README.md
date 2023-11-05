@@ -33,3 +33,9 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 
 
 Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/tree/main/DE-101/Module_02 "здесь")
+
+
+## 🗂️ Модуль 03: Визуализация данных, дашборды и отчетность - Business Intelligence
+
+
+Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/tree/main/DE-101/Module_03 "здесь")
