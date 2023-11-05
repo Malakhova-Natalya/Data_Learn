@@ -6,7 +6,7 @@
 
 
 ✒️ **Задачи:** 
-- **создать дашборд по данным Superstore в Tableau, выложить в Tableau Public**
+- **создать дашборд по данным Superstore в Tableau**
 
 
 
