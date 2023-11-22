@@ -7,10 +7,10 @@
 
 ✒️ **Задачи:** 
 - **создать дашборд по данным Superstore в Tableau**
+- **создать дашборд по данным Airbnb in London в Tableau**
 
 
-
-## Дашборд в Tableau 
+## Дашборд Superstore
 **Инструмент: Tableau Public**
 
 
@@ -30,7 +30,7 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_03/dashboard_tableau_02.png)
 
-## Финальный проект модуля - Airbnb in London
+## Дашборд Airbnb in London
 **Инструмент: Tableau Public**
 
 
