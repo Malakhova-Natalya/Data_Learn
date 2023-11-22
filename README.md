@@ -37,5 +37,9 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 
 ## 🗂️ Модуль 03: Визуализация данных, дашборды и отчетность - Business Intelligence
 
+✒️ **Задачи:** 
+- **создать дашборд по данным Superstore в Tableau**
+- **создать дашборд по данным Airbnb in London в Tableau**
 
+- 
 Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/tree/main/DE-101/Module_03 "здесь")
