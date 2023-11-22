@@ -38,6 +38,14 @@
 
 **Дашборд**: [здесь](https://public.tableau.com/app/profile/natalya.malakhova/viz/AirbnbLondon_16998112431030/Dashboard1 "здесь")
 
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_03/dashboard_tableau_03.png)
+
+
+
+P.S. данные очень большие + формат: возникают проблемы
+
+
 Какие дашборды мне были интересны: 
 1. [вариант 1](https://public.tableau.com/app/profile/daria.kandy/viz/AirBnbproject/Dashboard1)
 2. [вариант 2](https://public.tableau.com/app/profile/artem3905/viz/airbnb-london_16158442698440/Dashboard1)
