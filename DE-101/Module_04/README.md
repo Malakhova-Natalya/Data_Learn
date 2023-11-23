@@ -42,6 +42,6 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 
 
 **Довести до результата Pentaho jobs для Staging и Dimension Tables**:
-
+- pentaho jobs и подробное описание задачи здесь: [здесь](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4 "здесь")
 
 **Создать новую трансформацию, результатом которой станет sales_fact таблица**:
