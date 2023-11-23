@@ -39,7 +39,6 @@ https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-
 https://www.youtube.com/watch?v=RL-EZCi51gc 
 
 ## ETL компоненты и начало работы с ETL на примере Pentaho Data Integration
-**Инструмент: Pentaho Data Integration Community Edition**
 
 
 **Довести до результата Pentaho jobs для Staging и Dimension Tables**:
