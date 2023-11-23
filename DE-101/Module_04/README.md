@@ -7,7 +7,7 @@
 
 ✒️ **Задачи:** 
 - **скачать и запустить бесплатный ETL инструмент Pentaho Data Integration Community Edition**
-- **two**
+
 
 
 ## Бесплатный ETL инструмент Pentaho Data Integration Community Edition
@@ -18,7 +18,7 @@
 https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html 
 
 
-Там отображается список разных версий, нам нужен pentaho data integration - pdi, community edition - ce - последней существующей версии, например сейчас это:
+По ссылке отображается список разных версий, нам нужен pentaho data integration - pdi, community edition - ce, последней существующей версии, например сейчас это:
 
 
 - pdi-ce-9.4.0.0-343.zip           Pentaho Data Integration (Base Install) 
