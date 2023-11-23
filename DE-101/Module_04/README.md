@@ -18,7 +18,7 @@
 https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html 
 
 
-По ссылке отображается список разных версий, нам нужен pentaho data integration - pdi, community edition - ce, последней существующей версии, например сейчас это:
+По ссылке отображается список разных версий, нам нужен pentaho data integration - pdi, community edition - ce, последней существующей версии. Например сейчас это:
 
 
 - pdi-ce-9.4.0.0-343.zip           Pentaho Data Integration (Base Install) 
