@@ -7,7 +7,8 @@
 
 ✒️ **Задачи:** 
 - **скачать и запустить ETL инструмент Pentaho Data Integration CE**
-
+- **довести дл результата Pentaho jobs для Staging и Dimension Tables**
+- **создать новую трансформацию, результатом которой станет sales_fact таблица**
 
 
 ## Бесплатный ETL инструмент Pentaho Data Integration Community Edition
@@ -36,3 +37,10 @@ https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-
 
 
 https://www.youtube.com/watch?v=RL-EZCi51gc 
+
+## ETL компоненты и начало работы с ETL на примере Pentaho Data Integration
+
+**Довести дл результата Pentaho jobs для Staging и Dimension Tables**:
+
+
+**Создать новую трансформацию, результатом которой станет sales_fact таблица**:
