@@ -32,7 +32,7 @@ https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-
 
 После скачивания нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. Можно создать ярлык на рабочий стол, дать ему картинку из скачанной папки и назвать его, например, Pentaho Data Integration.
 
-Видео, по которому можно ориентироваться: 
+Видео, по которому можно ориентироваться (автор - Павел Новичков, куратор 4-го модуля и ETL специалист): 
 
-(автор - Павел Новичков, куратор 4-го модуля и ETL специалист)
+
 https://www.youtube.com/watch?v=RL-EZCi51gc 
