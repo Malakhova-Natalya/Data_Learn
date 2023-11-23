@@ -6,7 +6,7 @@
 
 
 ✒️ **Задачи:** 
-- **скачать и запустить бесплатный ETL инструмент Pentaho Data Integration Community Edition**
+- **скачать и запустить ETL инструмент Pentaho Data Integration CE**
 
 
 
