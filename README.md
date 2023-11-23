@@ -48,3 +48,4 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 ## 🗂️ Модуль 04: Интеграция и трансформация данных - ETL и ELT
 
 
+Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/README.md "здесь")
