@@ -41,18 +41,18 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 ## ETL компоненты и начало работы с ETL на примере Pentaho Data Integration
 
 
-**Довести до результата Pentaho jobs для Staging и Dimension Tables**:
+Довести до результата Pentaho jobs для Staging и Dimension Tables:
 
-1. transformation_staging: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_staging.ktr "здесь")
+**1. transformation_staging**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_staging.ktr "здесь")
 
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_01.png)
 
-2. transformation_dim: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_dim.ktr "здесь")
+**2. transformation_dim**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_dim.ktr "здесь")
 
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_02.png)
 
-**Создать новую трансформацию, результатом которой станет sales_fact таблица**:
+Создать новую трансформацию, результатом которой станет sales_fact таблица:
 
-3. transformation_sales_fact: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_sales_fact.ktr "здесь")
+**3. transformation_sales_fact**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_sales_fact.ktr "здесь")
 
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_03.png)
