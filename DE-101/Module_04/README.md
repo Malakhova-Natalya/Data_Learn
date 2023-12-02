@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 
 1. transformation_staging: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_staging.ktr "здесь")
 
-   
+   ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_01.png)
 
 2. transformation_dim: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_dim.ktr "здесь")
 
