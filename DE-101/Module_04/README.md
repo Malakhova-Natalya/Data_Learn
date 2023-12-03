@@ -56,3 +56,12 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 **3. transformation_sales_fact**: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_sales_fact.ktr "здесь")
 
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_03.png)
+
+## Небольшой отчёт про подсистемы ETL Pentaho DI
+
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/34_ETL_subsystems_01.png)
+
+
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/34_ETL_subsystems_02.png)
