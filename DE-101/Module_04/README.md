@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 - **21** - Data Integration Manager: задача системы - забирать данные и загружать их в другие системы
 
 **4) Managing the ETL Environment**
-- **27** - Workflow Monitor: мониторинг рабоыт ETL решения (запись логов)
+- **27** - Workflow Monitor: мониторинг работы ETL решения (запись логов)
 - **28** - Sort System: задача системы - упорядочивать строки
 - **30** - Problem Escalation System: задача - сообщать о проблемах и например, автоматически создавать тикет в системе (Jira и т.п.)
 - **33** - Compliance Reporter: сбор данных для возможного аудита, где можно отследить все действия ETL решения
