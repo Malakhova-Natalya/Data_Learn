@@ -59,6 +59,14 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 
 ## Небольшой отчёт про подсистемы ETL Pentaho DI
 
+Согласно Ральфу Кимбаллу, существует 34 ETL подсистемы, которые делятся на 4 основных категории:
+
+- Data Extracting (получить данные из систем - E в ETL)
+- Cleaning and Conforming Data (интеграция данных и подготовка к загрузке в DW - T в ETL)
+- Delivering Data for Presentation (обработка данных в DW - L в ETL)
+- Managing the ETL environment (управление и мониторинг компонентов ETL)
+
+Я обозначила разными цветами эти 4 категории и подписала некоторые использованные в моём решении ETL подсистемы:
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/34_ETL_subsystems_01.png)
 
