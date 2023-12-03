@@ -75,18 +75,21 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/34_ETL_subsystems_02.png)
 
-**Data Extracting**
+
+Использованные подсистемы ETL в порядке по категориям:
+
+**1) Data Extracting**
 - **3** - Extracting System: задача системы - понять источник и суметь к нему подключиться
 
-**Cleaning and Conforming Data**
+**2) Cleaning and Conforming Data**
 - **6** - Audit Data: задача системы - мониторить качество данных и выявлять отклонения
 - **7** - Deduplication System: система выявляет дубликаты и удаляет их
 
-**Data Delivery**
+**3) Data Delivery**
 - **10** - Surrogate Key Creation System: генерация суррогатных ключей для натуральных ключей (например, через создание последовательности чисел)
 - **21** - Data Integration Manager: задача системы - забирать данные и загружать их в другие системы
 
-**Managing the ETL Environment**
+**4) Managing the ETL Environment**
 - **27** - Workflow Monitor: мониторинг рабоыт ETL решения (запись логов)
 - **28** - Sort System: задача системы - упорядочивать строки
 - **30** - Problem Escalation System: задача - сообщать о проблемах и например, автоматически создавать тикет в системе (Jira и т.п.)
