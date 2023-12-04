@@ -10,6 +10,7 @@
 - **довести до результата Pentaho jobs для staging и dimension tables**
 - **создать новую трансформацию, результатом которой станет sales_fact таблица**
 - **выявить 8-10 ETL подсистем в Pentaho DI и написать по ним небольшой отчёт**
+- **построить Tableau Prep Flow**
 
 
 ## Бесплатный ETL инструмент Pentaho Data Integration Community Edition
@@ -94,3 +95,26 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 - **28** - Sort System: задача системы - упорядочивать строки
 - **30** - Problem Escalation System: задача - сообщать о проблемах и например, автоматически создавать тикет в системе (Jira и т.п.)
 - **33** - Compliance Reporter: сбор данных для возможного аудита, где можно отследить все действия ETL решения
+
+## Tableau Prep Flow
+
+Для того чтобы имитировать рабочую ситуацию - сбор и объединение данных из разных источников с помощью Tableau Prep - я создала отдельные файлы в базе данных Postgres. 
+
+
+Для этого я создала:
+- схему tab 
+- в ней отдельные таблицы с заказами по регионам
+
+
+DDL для создания схемы и таблиц: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/schema%20tab.sql "здесь")
+
+
+Далее в Tableau Prep (в этом сервисе есть бесплатный пробный период на 14 дней + для РФ обязательно VPN) я создала Flow, который собирает данные из разных файлов (заказы по регионам + возвраты + менеджеры) в одну таблицу - которую в дальнейшем, например, можно использовать для построения дашборда в том же Tableau.
+
+
+Tableau Prep Flow: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/tableau_prep_superstore.tfl "здесь")
+
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/tableau_prep_superstore_screen.png)
+
+P.S. Tableau за его дизайн навсегда в моём сердце...
