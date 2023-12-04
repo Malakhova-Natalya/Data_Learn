@@ -52,6 +52,6 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 - довести до результата Pentaho jobs для staging и dimension tables
 - создать новую трансформацию, результатом которой станет sales_fact таблица
 - выявить 8-10 ETL подсистем в Pentaho DI и написать по ним небольшой отчёт
-
+- построить Tableau Prep Flow
 
 Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/README.md "здесь")
