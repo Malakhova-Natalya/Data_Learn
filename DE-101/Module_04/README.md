@@ -41,6 +41,7 @@ https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-
 https://www.youtube.com/watch?v=RL-EZCi51gc 
 
 ## ETL компоненты и начало работы с ETL на примере Pentaho Data Integration
+**Инструмент: Pentaho Data Integration Community Edition**
 
 
 Довести до результата Pentaho jobs для Staging и Dimension Tables:
@@ -60,6 +61,8 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
    ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/transformation_03.png)
 
 ## Небольшой отчёт про подсистемы ETL Pentaho DI
+**Инструмент: Pentaho Data Integration Community Edition**
+
 
 Согласно Ральфу Кимбаллу, существует 34 ETL подсистемы, которые делятся на 4 основных категории:
 
@@ -97,6 +100,8 @@ https://www.youtube.com/watch?v=RL-EZCi51gc
 - **33** - Compliance Reporter: сбор данных для возможного аудита, где можно отследить все действия ETL решения
 
 ## Tableau Prep Flow
+**Инструмент: Tableau Prep Flow**
+
 
 Для того чтобы имитировать рабочую ситуацию - сбор и объединение данных из разных источников с помощью Tableau Prep - я создала отдельные файлы в базе данных Postgres. 
 
