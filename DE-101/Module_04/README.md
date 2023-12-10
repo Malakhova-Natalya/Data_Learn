@@ -137,3 +137,6 @@ P.S. Tableau за его дизайн навсегда в моём сердце.
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/dbt_project_05.png)
 
 Продолжение (т.е. обзор целиком) можно посмотреть в pdf-файле: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/dbt-project.pdf "здесь")
+
+Кстати, у меня есть значок за освоение курса Dbt Fundamentals:
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/значок.png)
