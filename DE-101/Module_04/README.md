@@ -11,7 +11,7 @@
 - **создать новую трансформацию, результатом которой станет sales_fact таблица**
 - **выявить 8-10 ETL подсистем в Pentaho DI и написать по ним небольшой отчёт**
 - **построить Tableau Prep Flow**
-- **практика в fancy etl инструменте (Apache Airflow/Apache NiFi/Data Build Tool (dbt) tool/Luigi)**
+- **выполнить tutorial/проект в fancy etl инструменте (Apache Airflow/Apache NiFi/Data Build Tool (dbt) tool/Luigi)**
 
 
 ## Бесплатный ETL инструмент Pentaho Data Integration Community Edition
