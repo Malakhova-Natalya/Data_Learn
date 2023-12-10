@@ -128,7 +128,7 @@ P.S. Tableau за его дизайн навсегда в моём сердце.
 ## Data Build Tool (dbt) tool
 **Инструмент: dbt**
 
-В качестве практики в одном из "Fancy ETL инструментов" прикладываю обзор моего dbt-проекта.
+В качестве практики в одном из "Fancy ETL инструментов" прикладываю обзор моего dbt-проекта: [проект](https://cloud.getdbt.com/develop/189308/projects/276942 "проект").
 
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/dbt_project_01.png)
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/dbt_project_02.png)
