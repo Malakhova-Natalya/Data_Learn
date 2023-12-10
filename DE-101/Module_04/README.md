@@ -11,6 +11,7 @@
 - **создать новую трансформацию, результатом которой станет sales_fact таблица**
 - **выявить 8-10 ETL подсистем в Pentaho DI и написать по ним небольшой отчёт**
 - **построить Tableau Prep Flow**
+- **практика в fancy etl инструменте (Apache Airflow/Apache NiFi/Data Build Tool (dbt) tool/Luigi)**
 
 
 ## Бесплатный ETL инструмент Pentaho Data Integration Community Edition
@@ -123,3 +124,8 @@ Tableau Prep Flow: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/tableau_prep_superstore_screen.png)
 
 P.S. Tableau за его дизайн навсегда в моём сердце...
+
+## Data Build Tool (dbt) tool
+**Инструмент: dbt**
+
+В качестве практики в одном из "Fancy ETL инструментов" прикладываю обзор моего dbt-проекта.
