@@ -140,4 +140,4 @@ P.S. Tableau за его дизайн навсегда в моём сердце.
 
 Кстати, у меня есть значок за освоение курса Dbt Fundamentals:
 
-                     ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/значок.png)
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/значок.png)
