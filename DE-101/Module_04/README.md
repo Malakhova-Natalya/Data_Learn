@@ -129,3 +129,4 @@ P.S. Tableau за его дизайн навсегда в моём сердце.
 **Инструмент: dbt**
 
 В качестве практики в одном из "Fancy ETL инструментов" прикладываю обзор моего dbt-проекта.
+https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/dbt-project.pdf
