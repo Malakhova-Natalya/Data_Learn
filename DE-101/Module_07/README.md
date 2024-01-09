@@ -59,4 +59,4 @@
 Для этого заходим в командную строку. Например, можно открыть новый терминал в VSC - powershell.
 - проверяем, находится ли java: java -version
 - проверяем, находится ли python: python --version
-- запускаем spark - для этого надо быть по адресу его расположения в папке bin (у меня это C:\Program Files\Spark\spark-3.5.0-bin-hadoop3\bin) и вызвать команду: pyspark (или .\pyspark).
+- запускаем spark вызовом команды: pyspark 
