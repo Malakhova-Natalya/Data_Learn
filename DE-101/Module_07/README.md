@@ -7,4 +7,6 @@
 ✒️ **Задачи:** 
 - **Изучить Apache Spark**
 
+## Установка Apache Spark
 
+!cover https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/download%20apache%20spark.png
