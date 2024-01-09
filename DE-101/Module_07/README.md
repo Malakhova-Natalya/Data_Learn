@@ -5,3 +5,4 @@
 ✒️ **Задачи:** 
 - **Изучить Apache Spark**
 
+Материалы к вебинару "Введение в PySpark и SparkSQL": [здесь](https://github.com/oleg-agapov/getting-started-with-pyspark-ru "здесь") 📑
