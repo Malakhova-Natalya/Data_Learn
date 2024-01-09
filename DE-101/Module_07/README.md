@@ -9,21 +9,21 @@
 
 ## Установка Apache Spark
 
-1. Для установки переходим на сайт: https://spark.apache.org/downloads.html
+**1. Для установки переходим на сайт**: https://spark.apache.org/downloads.html
 
 
-Проверяем актулаьность версии и нажимаем на пункт Download Spark:
+Проверяем актулаьность версии и **нажимаем на пункт Download Spark**:
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/download%20start.png)
 
 
-2. Попадаем сюда: https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz
+**2**. Попадаем сюда: https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz
 
 
-Загружаем архив по верхней ссылке:
+**Загружаем архив** по верхней ссылке:
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/download%20apache%20spark.png)
 
 
-3. В IDE - например, Visual Studio Code - открываем новый терминал powershell и выполняем в нём команду:
+**3**. В IDE - например, Visual Studio Code - открываем новый терминал powershell и **выполняем команду**:
    
    tar - xvzf C:\Users\Natalya_PY\Downloads\spark-3.5.0-bin-hadoop3.tgz -C C:\Users\Natalya_PY\Downloads
 
