@@ -23,11 +23,9 @@
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/download%20apache%20spark.png)
 
 
-**3**. В IDE - например, Visual Studio Code - открываем новый терминал powershell и **выполняем команду**:
-   
-   tar - xvzf C:\Users\Natalya_PY\Downloads\spark-3.5.0-bin-hadoop3.tgz -C C:\Users\Natalya_PY\Downloads
+**3**. В IDE - например, Visual Studio Code - открываем новый терминал powershell и **выполняем команду, чтобы распаковать скачанный архив**:
 
-Суть команды:
-   tar - xvzf [полный путь до скачанного архива[ -C [путь куда распаковать]
+   tar - xvzf [полный путь до скачанного архива] -C [путь куда распаковать]
+   Пример:    tar - xvzf C:\Users\Natalya_PY\Downloads\spark-3.5.0-bin-hadoop3.tgz -C C:\Users\Natalya_PY\Downloads
 
 Это мы так распаковываем архив в необычном формате (потому что Windows его автоматически распаковать не может)
