@@ -43,8 +43,8 @@
 
 
 Например, у меня это:
-- JAVA_HOME C:\Program Files\Java\jre1.8.0_261
-- SPARK_HOME C:\Program Files\Spark\spark-3.5.0-bin-hadoop3
+- JAVA_HOME: C:\Program Files\Java\jre1.8.0_261
+- SPARK_HOME: C:\Program Files\Spark\spark-3.5.0-bin-hadoop3
 
 
 **5. Как проверить, всё ли работает и запустить Spark**
