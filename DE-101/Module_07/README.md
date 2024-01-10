@@ -72,8 +72,6 @@
 Тетрадь Jupyter Notebook: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Jupyter_Spark.ipynb "здесь")
 
 
-![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Jupyter_Spark.ipynb)
-
 Что внутри этой тетради:
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Jupyter_Spark.png)
 
