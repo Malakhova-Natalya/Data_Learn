@@ -77,3 +77,7 @@
 
 
 Тетрадь Jupyter Notebook с пробной задачей про M&Ms: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Spark_notebook.ipynb "здесь")
+
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_1.png)
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_2.png)
+![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_3.png)
