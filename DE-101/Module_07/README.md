@@ -76,4 +76,4 @@
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Jupyter_Spark.png)
 
 
-Тетрадь Jupyter Notebook с пробной задачей на Spark: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Spark_notebook.ipynb "здесь")
+Тетрадь Jupyter Notebook с пробной задачей про M&Ms: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Spark_notebook.ipynb "здесь")
