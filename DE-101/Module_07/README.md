@@ -62,3 +62,35 @@
 - запускаем spark вызовом команды: pyspark.
 Можно запустить, не прописывая переменные. Тогда надо быть по адресу: C:\Program Files\Spark\spark-3.5.0-bin-hadoop3, и зайти далее в папку bin, и оттуда вызвать команду pyspark (или .\pyspark).
 - проверяем версию pyspark: spark.version
+
+
+## Jupyter Notebook и Spark
+
+Налаживаем взаимодействие Jupyter Notebook и Spark по статье: [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://medium.com/sicara/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f#:~:text=There%20are%20two%20ways%20to%20get%20PySpark%20available,Jupyter%20Notebook%20and%20load%20PySpark%20using%20findSpark%20package)
+
+1. Запускаем новую тетрадь в Jupyter Notebook (Python и Spark уже имеются)
+   
+2. Устанавливаем findspark: pip install findspark
+
+3. Устанавливаем необходимые библиотеки:
+- import findspark
+- findspark.init()
+- import pyspark
+- import random
+
+Запускаем программу:
+
+
+sc = pyspark.SparkContext(appName="Pi")
+num_samples = 100000000
+def inside(p):     
+  x, y = random.random(), random.random()
+  return x*x + y*y < 1
+count = sc.parallelize(range(0, num_samples)).filter(inside).count()
+pi = 4 * count / num_samples
+print(pi)
+sc.stop()
+
+
+Через некоторое время она выдаст результат:
+3.14160036
