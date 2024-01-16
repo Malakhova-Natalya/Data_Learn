@@ -81,3 +81,11 @@
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_1.png)
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_2.png)
 ![cover](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/mnms_3.png)
+
+## Практика в Spark
+
+В качестве практики выполнено две тетради:
+
+1. Тетрадь Jupyter Notebook "San-Francisco fire calls project": [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Spark_fire_calls.ipynb "здесь")
+2. Тетрадь Jupyter Notebook "More practice (Departure delays project)": [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/Spark_practice.ipynb "здесь")
+
