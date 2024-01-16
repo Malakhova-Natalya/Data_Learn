@@ -56,3 +56,12 @@ GitHub проекта: [здесь](https://github.com/Data-Learn/data-engineeri
 - выполнить tutorial/проект в fancy etl инструменте (Apache Airflow/Apache NiFi/Data Build Tool (dbt) tool/Luigi)
 
 Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_04/README.md "здесь")
+
+## 🗂️ Модуль 07: 
+
+✒️ **Задачи:** 
+- изучить основы и установить Apache Spark
+- наладить взаимодействие с Jupyter Notebook
+- выполнить задания для практики, используя разные возможности Spark
+  
+Мои решения: [здесь](https://github.com/Malakhova-Natalya/Data_Learn/blob/main/DE-101/Module_07/README.md "здесь")
